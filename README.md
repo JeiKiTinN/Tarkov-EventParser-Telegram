@@ -9,8 +9,10 @@ Website during the event:
 ![Website during the event](https://user-images.githubusercontent.com/44775752/202099205-1523d840-5276-40bb-8297-b388592c13f0.jpg)
 
 Here is what can happen to you if you do not use this bot:
+
 ![tarkov-halloween-event-health-status](https://user-images.githubusercontent.com/44775752/202099366-cd0b39c6-3aad-44ea-a567-6dd2816ffd70.jpg)
 ![T_1qh7Gf6hA](https://user-images.githubusercontent.com/44775752/202099373-5436db81-e62b-481d-8f19-eee5a44082fb.jpg)
 
 Telegram notifications:
+
 ![44](https://user-images.githubusercontent.com/44775752/202099441-3068c44b-f592-44e6-9efd-f7b221ecdd1c.JPG)
